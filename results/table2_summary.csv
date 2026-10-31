@@ -1,0 +1,11 @@
+Grouping,Method,R2 (all),MAE (all),R2 (subset),MAE (subset)
+New alloy (composition),M0 Baseline,0.670 ± 0.020,246 ± 7,0.617 ± 0.027,273 ± 10
+New alloy (composition),M1 Tabor rule,-,-,0.430 ± 0.000,353 ± 0
+New alloy (composition),M2 Hardness as input,0.698 ± 0.009,240 ± 3,0.664 ± 0.016,259 ± 4
+New alloy (composition),M3 Augment (A),0.673 ± 0.019,247 ± 8,0.615 ± 0.026,276 ± 12
+New alloy (composition),M4 Augment (B),0.721 ± 0.010,230 ± 2,0.696 ± 0.008,247 ± 3
+New alloy family (system),M0 Baseline,0.545 ± 0.019,291 ± 8,0.506 ± 0.022,309 ± 12
+New alloy family (system),M1 Tabor rule,-,-,0.430 ± 0.000,353 ± 0
+New alloy family (system),M2 Hardness as input,0.607 ± 0.010,273 ± 5,0.586 ± 0.016,287 ± 6
+New alloy family (system),M3 Augment (A),0.550 ± 0.024,292 ± 11,0.494 ± 0.031,315 ± 13
+New alloy family (system),M4 Augment (B),0.645 ± 0.015,267 ± 7,0.639 ± 0.016,275 ± 8

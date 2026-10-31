@@ -1,0 +1,9 @@
+Descriptor,Spearman M0,Spearman M4,Agrees with metallurgy?
+δ (atomic size mismatch),0.781,0.823,yes
+ΔS_mix (mixing entropy),0.888,0.858,(no clear expectation)
+VEC (valence electrons),-0.71,-0.694,yes
+Mean electronegativity χ,0.389,0.51,(no clear expectation)
+Δχ (electroneg. difference),0.344,0.538,(no clear expectation)
+Mean melting point Tm,0.87,0.808,yes
+Mean atomic radius r,0.598,0.661,(no clear expectation)
+Number of elements,0.8,0.844,(no clear expectation)

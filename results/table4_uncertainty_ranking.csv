@@ -1,0 +1,9 @@
+Grouping,Method,UQ,"Spearman(σ, error)",MAE all (MPa),MAE confident half (MPa),MAE uncertain half (MPa)
+New alloy (composition),M0,XGB ensemble,0.301,248.873,192.671,305.074
+New alloy (composition),M0,Random forest,0.25,262.276,208.046,316.505
+New alloy (composition),M4,XGB ensemble,0.28,241.74,186.821,296.659
+New alloy (composition),M4,Random forest,0.297,252.198,188.854,315.542
+New alloy family (system),M0,XGB ensemble,0.247,301.026,251.683,350.369
+New alloy family (system),M0,Random forest,0.259,319.594,266.288,372.901
+New alloy family (system),M4,XGB ensemble,0.26,271.887,214.15,329.624
+New alloy family (system),M4,Random forest,0.321,300.689,228.874,372.504

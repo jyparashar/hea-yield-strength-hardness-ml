@@ -1,0 +1,10 @@
+Split,Model,R2,MAE (MPa),RMSE (MPa)
+Random,Ridge (linear),0.4533,305.979,432.9897
+Random,Random forest,0.6959,225.5472,322.9368
+Random,XGBoost,0.7301,212.0893,304.23
+Grouped (composition),Ridge (linear),0.4795,315.0036,422.4998
+Grouped (composition),Random forest,0.627,260.9413,357.6334
+Grouped (composition),XGBoost,0.6838,242.3188,329.3059
+Grouped (system),Ridge (linear),0.4473,325.5601,435.3469
+Grouped (system),Random forest,0.4858,308.9937,419.9245
+Grouped (system),XGBoost,0.5363,290.9901,398.7623

@@ -1,0 +1,5 @@
+Grouping,Method,Coverage raw XGB (%),Coverage raw RF (%),Coverage calibrated XGB (%),Mean q95 (ideal 1.96),Half-width calibrated σ (MPa),Coverage constant width (%),Half-width constant (MPa)
+New alloy (composition),M0,49.584,90.859,94.183,7.364,752.54,93.075,626.623
+New alloy (composition),M4,47.091,90.443,89.335,6.475,642.946,91.967,586.778
+New alloy family (system),M0,39.751,87.396,90.166,7.644,778.72,91.828,804.204
+New alloy family (system),M4,42.105,90.028,94.598,8.133,793.122,92.382,696.285

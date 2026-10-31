@@ -1,0 +1,11 @@
+,M0 mean |SHAP| (MPa),M0 std,M4 mean |SHAP| (MPa),M4 std
+Mean atomic radius r,106.2,54.51,193.53,22.15
+δ (atomic size mismatch),103.19,15.99,122.49,23.44
+VEC (valence electrons),142.81,31.02,94.23,12.87
+Test type,105.69,27.93,83.34,6.97
+Processing,86.26,6.25,80.97,6.82
+Mean melting point Tm,86.74,10.82,77.21,13.09
+ΔS_mix (mixing entropy),71.47,5.88,63.23,3.28
+Mean electronegativity χ,49.7,10.54,47.2,5.65
+Δχ (electroneg. difference),32.45,5.79,35.27,4.63
+Number of elements,6.78,2.48,9.78,6.18

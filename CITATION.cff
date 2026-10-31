@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Measure hardness first: ML prediction of HEA yield strength (code and notebooks)"
+authors:
+  - family-names: "Parashar"
+    given-names: "Ajay Raj"
+    affiliation: "Department of Computer Science & Engineering, Hindustan College of Science & Technology, Farah, Mathura, India"
+    email: "jyparashar@gmail.com"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/jyparashar/hea-yield-strength-hardness-ml"
